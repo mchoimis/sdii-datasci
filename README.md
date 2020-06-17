@@ -2,9 +2,9 @@
 
 안녕하세요. 여기는 본문입니다.
 
-<s> ## Python 설치, IDE 구축 (1 hr) </s>
+## <s> Python 설치, IDE 구축 (1 hr) </s>
 
-<s> ## Python 자료형 (1 hr) </s>
+## <s> Python 자료형 (1 hr) </s>
 
 ## Lab: Jupyter Notebook 과 pandas 익히기 (20 hrs)
 
