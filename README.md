@@ -12,6 +12,8 @@
 
 ### <s> git 원리와 사용법 (1 hr) </s>
 
+#### 참고자료: https://wepplication.github.io/programming/github-pages/
+
 ### <s> Markdown 사용법 (0.5 hr) </s>
 
 ### git 원리와 사용법 2 (1 hr) 
