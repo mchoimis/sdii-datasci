@@ -10,9 +10,11 @@
 
 ### Lab: Jupyter Notebook 과 pandas 익히기 (20 hrs)
 
-### git 원리와 사용법 (1 hr)
+### <s> git 원리와 사용법 (1 hr) </s>
 
-### Markdown 사용법 (0.5 hr)
+### <s> Markdown 사용법 (0.5 hr) </s>
+
+### git 원리와 사용법 2 (1 hr) 
 
 ### matplotlib과 seaborn을 이용한 시각화 (1 hr)
 
